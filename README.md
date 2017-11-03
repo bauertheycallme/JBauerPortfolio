@@ -1,1 +1,2 @@
 # JBauerPortfolio
+In order to gain some practical experience in data mining and machine learning outside of the classroom, I decided to start a portfolio of practical excercises to expand my skillset. Here you can find all of the projects I've undertaken. My goal is to complete several projects across multiple disciplines of analytics and data mining to expose myself to as much of the field as possible before I graduate in May, 2018.
